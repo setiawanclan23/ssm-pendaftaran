@@ -1,12 +1,12 @@
 {
-  "name": "RS SS MEDIKA",
-  "short_name": "SSMEDIKA",
-  "scope": "https://ssmedika.blogspot.com",
-  "start_url": "https://ssmedika.blogspot.com",
+  "name": "SS MEDIKA HOSPITAL",
+  "short_name": "SSMEDIKA APPOINTMENT",
+  "scope": "https://dokterssmedika.blogspot.com",
+  "start_url": "https://dokterssmedika.blogspot.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
-  "description": "Jadwal praktek dokter RS SS MEDIKA",
+  "description": "Form appointment RS SS MEDIKA",
   "icons": [{
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4o2STgAdj0YbU1DHACupLiev-v2MKVWyuCKkROISyyn_uSRn9uAaBFMQl0bt1xKDRcTJ4wiye_ZB-I3wppcqaewMMlND3SypcmUxuqLf_ycjqItnxYkyBYC0yIXnvL7ESrPxTlfIh6KXSeFjCUPUkrIYS2ofzzfkHk3Cf2kI1KJN__GO2HxbDn_Ip/s1600/android-icon-48x48.png",
     "sizes": "48x48",
