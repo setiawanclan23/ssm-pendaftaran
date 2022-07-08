@@ -1,0 +1,35 @@
+{
+  "name": "RS SS MEDIKA",
+  "short_name": "SSMEDIKA",
+  "scope": "https://ssmedika.blogspot.com",
+  "start_url": "https://ssmedika.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Jadwal praktek dokter RS SS MEDIKA",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4o2STgAdj0YbU1DHACupLiev-v2MKVWyuCKkROISyyn_uSRn9uAaBFMQl0bt1xKDRcTJ4wiye_ZB-I3wppcqaewMMlND3SypcmUxuqLf_ycjqItnxYkyBYC0yIXnvL7ESrPxTlfIh6KXSeFjCUPUkrIYS2ofzzfkHk3Cf2kI1KJN__GO2HxbDn_Ip/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg452bI9ef74WPNlI3Hd7IGWMT-AguRaDzjsJzj69w6DniXiajaIcuxSubm8-E5lnXEorQOD8xW5GxTjCbJP0N_2mixNKKWp2nMXuJskUSBeLecnoe02rKCc9XqgiZsW6GqoQHdmIe6Y6CWuBOwEP7FEaA2fvuu4vkrReajjlRQpmZUv2xIkJeAEMVF/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLbTYXicgBnkTiVAuUmJQy0ZWyoHqp9F7PCiuaqV3NUDsWQbOp1bN5M6uTwVIhXk1X2sAHpGkZ74F3eP-kq-cWf-46_u2to0d-fzjsJVkaQt7uwWR6h2TA2m-4ypwup0J9Zhjfik2a0NEOk5CWq-5gfzpFeSQP0Z2gi8Ab4IVv8v5Kwr9hhOg2rrJM/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3gvt1dKaC8IJIvR6ccn4w4wk0ZbCIGoYY9T-bswH0hWxgxz7w6CmxMVqL2sOiDoyXk3rDZETtNtm93j5WK88xoIFI7rAiQkJlXsuUZLLIMjHjt1JSZkSLe8pt7zqzJ6bkKUotO2nEJPQ1eT85K_dF5WT20mX2jNShVYBIS54RmktIE_GxcW72SHHz/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0TYYJlkcEQ0tf97OQLrOOp9ntc7nFA05o651ZWlrIv9fgiOpzx1wlucG7HpxOdFXcOam8DzerJyQmem5OeYpcNxOg3lfYmn2euKQV8FlqGlMyC2MXay-08hdZiOpr1e8pvp23gyWZOEsoXLf1eKIUh8XygdgKBT8j3CMcXMm5nfVh_iSecUGvNPNL/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXylk9-vkeHrSd6fpEPo1pExlfBwngfhy1yZGRGtMIcw_uwTy5Ta-4GDkGafHfD9lotHOatsI3akiParFzLx-T8R3anZjsyxK-28VDJPQb6WvxjpiA9N0iG4xy2hpnKp-Lab_nbMkngKdF8AybvGNuJV4Z15TJbWKhg9sIzUUkKS5VRPjDdLMDaq/s310/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }]
+}
