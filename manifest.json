@@ -1,6 +1,6 @@
 {
   "name": "SS MEDIKA HOSPITAL",
-  "short_name": "SSMEDIKA APPOINTMENT",
+  "short_name": "SSM Appointment",
   "scope": "https://dokterssmedika.blogspot.com",
   "start_url": "https://dokterssmedika.blogspot.com",
   "display": "standalone",
